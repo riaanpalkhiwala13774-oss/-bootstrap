@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class="container" style="background-color: aqua; text-align:justify; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">
+            <h1>Hobby Section</h1>
+            <p>This is the hobby section of my website. Here are some of my hobbies:</p>
+            <ul>
+                <li>Reading</li>
+                <li>Traveling</li>
+                <li>Coding</li>
+                <li>Photography</li>
+            </ul>
+            <p>I enjoy exploring new places, learning new programming languages, and capturing moments through my camera lens.</p>
+        </div>
+        <div class="container" style="background-color:sandybrown; font-family: Verdana, Geneva, Tahoma, sans-serif;">
+            <h2>The areas where I am skilled are:</h2>
+            <ol>
+                <li>Web Development</li>
+                <li>Data Analysis</li>
+                <li>Graphic Design</li>
+                <li>Project Management</li>
+            </ol>
+            <p>These skills help me in my professional life and personal projects.</p>
+        </div>
+    </body>
+</html>
